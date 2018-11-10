@@ -17,3 +17,9 @@ use one instead of another?
     repository from github or from your own computer. Branches refer to
     different code in the same repository. You can make new branches or merges
     them if the feature is finished.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    If you are working online you could merge your work with the las known
+    remote status.
